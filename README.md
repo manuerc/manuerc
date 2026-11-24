@@ -16,7 +16,6 @@
 - 🔌 I like the parts that make LLMs work in production: **MCP integrations, RAG, agent evals and observability**.
 - 🎤 I gave a talk on **AI & context** at Crevolution (Mexico) and run AI training sessions for non-technical teams.
 - 🎓 **Data Science** at ITBA. Before AI I worked in data analytics and BI (Assurant, Suteki Sushi).
-- 🏉 Away from the keyboard I play rugby.
 
 ### 🛠️ Stack
 
